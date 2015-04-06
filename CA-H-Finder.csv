@@ -1,0 +1,326 @@
+city_name,zip_code,hospital_name,address,phone,photo_file,latitude,longitude
+Alameda,94501,Alameda Hospital,"2070 Clinton Avenue, Alameda, CA 94501",(510) 522-3700,Alameda_Hospital.jpg,37.762814,-122.253387
+Alhambra,91801,Alhambra Hospital Medical Center,"100 South Raymond Avenue, Alhambra, CA 91801",(626) 570-1606,Alhambra_Hospital_Medical_Center.jpg,34.090226,-118.144014
+Anaheim,92801,Ahmc Anaheim Regional Medical Center,"1111 West la Palma Avenue, Anaheim, CA 92801",(714) 774.1450,Ahmc_Anaheim_Regional_Medical_Center.jpg,33.848175,-117.934526
+Anaheim,92806,Kaiser Permanente Orange County - Anaheim Medical,"3440 East La Palma Avenue, Anaheim, CA 92806",(714) 644-2000,Kaiser_Permanente_Orange_County_-_Anaheim_Medical.jpg,33.852006,-117.844139
+Anaheim,92804,West Anaheim Medical Center,"3033 West Orange Avenue, Anaheim, CA 92804",(714) 827-3000,West_Anaheim_Medical_Center.jpg,33.825427,-117.994762
+Anaheim,92805,Western Medical Center Anaheim,"1025 South Anaheim Boulevard, Anaheim, CA 92805",(714) 533-6220 ,Western_Medical_Center_Anaheim.jpg,33.819777,-117.909402
+Antioch,94531,Kaiser Permanente Antioch Medical Center,"4501 Sand Creek Road, Antioch, CA 94531",(925) 813-6500,Kaiser_Permanente_Antioch_Medical_Center.jpg,37.95189,-121.776277
+Antioch,94509,Sutter Delta Medical Center,"3901 Lone Tree Way, Antioch, CA 94509",(925) 779-7200,Sutter_Delta_Medical_Center.jpg,37.982182,-121.804047
+Apple Valley,92307,Saint Mary Medical Center,"18300 Highway 18, Apple Valley, CA 92307",(760) 242-2311,Saint_Mary_Medical_Center.jpg,34.541848,-117.265564
+Arcadia,91007,Methodist Hospital of Southern California,"300 West Huntington Drive, Arcadia, CA 91007",(626) 898–8000,Methodist_Hospital_of_Southern_California.jpg,34.134491,-118.042119
+Arcata,95521,Mad River Community Hospital,"3800 Janes Road, Arcata, CA 95521",(707) 822-3621,Mad_River_Community_Hospital.jpg,40.896336,-124.091671
+Arroyo Grande,93420,Arroyo Grande Community Hospital,"345 South Halcyon Road, Arroyo Grande, CA 93420",(805) 489-4261,Arroyo_Grande_Community_Hospital.jpg,35.113313,-120.590768
+Auburn,95602,Sutter Auburn Faith Hospital,"11815 Education Street, Auburn, CA 95602",(530) 888-4500,Sutter_Delta_Medical_Center.jpg,38.944713,-121.098798
+Bakersfield,93308,Bakersfield Heart Hospital,"3001 Sillect Avenue, Bakersfield, CA 93308",(661) 316-6000 ,Bakersfield_Heart_Hospital.jpg,35.384656,-119.040113
+Bakersfield,93301,Bakersfield Memorial Hospital,"420 34th Street, Bakersfield, CA 93301",(661) 327-4647,Bakersfield_Memorial_Hospital.jpg,35.39226,-119.006527
+Bakersfield,93308,Good Samaritan Hospital - Bakersfield,"901 Olive Drive, Bakersfield, CA 93308",(661) 215-7500,Good_Samaritan_Hospital_-_Bakersfield.jpg,35.411716,-119.039719
+Bakersfield,93306,Kern Medical Center,"1700 Mount Vernon Avenue, Bakersfield, CA 93306",(661) 326-2000,Kern_Medical_Center.jpg,35.382804,-118.970093
+Bakersfield,93301,Mercy Hospitals,"2215 Truxtun Avenue, Bakersfield, CA 93301",(661) 632-5000,Mercy_Hospitals.jpg,35.372792,-119.02761
+Bakersfield,93301,San Joaquin Community Hospital,"2615 Chester Avenue, Bakersfield, CA 93301",(661) 395-3000,San_Joaquin_Community_Hospital.jpg,35.383282,-119.020653
+Baldwin Park,91706,Kaiser Permanente Baldwin Park Medical Center,"1011 Baldwin Park Boulevard, Baldwin Park, CA 91706",(626) 851-1011,Kaiser_Permanente_Baldwin_Park_Medical_Center.jpg,34.065283,-117.986037
+Banning,92220,San Gorgonio Memorial Hospital,"600 North Highland Springs Avenue, Banning, CA 92220",(951) 845-1121,San_Gorgonio_Memorial_Hospital.jpg,33.931748,-116.945951
+Barstow,92311,Barstow Community Hospital,"820 East Mountain View Street, Barstow, CA 92311",(760) 256-1761,Barstow_Community_Hospital.jpg,34.892431,-117.017066
+Berkeley,94705,Alta Bates Summit Medical Center - Alta Bates Camp,"2450 Ashby Avenue, Berkeley, CA 94705",(510) 204-4444,Alta_Bates_Summit_Medical_Center_-_Alta_Bates_Camp.jpg,37.855724,-122.257135
+Burbank,91505,Providence Saint Joseph Medical Center,"501 South Buena Vista Street, Burbank, CA 91505",(818) 843-5111,Providence_Saint_Joseph_Medical_Center.jpg,34.155808,-118.328214
+Burlingame,94010,Peninsula Medical Center,"1501 Trousdale Drive, Burlingame, CA 94010",(650) 696-5400,Peninsula_Medical_Center.jpg,37.59264,-122.382465
+Camarillo,93010,St. John's Pleasant Valley Hospital,"2309 Antonio Avenue, Camarillo, CA 93010",(805) 389-5800,St._John_Pleasant_Valley_Hospital.jpg,34.243566,-119.020022
+Carmichael,95608,Mercy San Juan Medical Center,"6501 Coyle Avenue, Carmichael, CA 95608",(916) 537-5000,Mercy_San_Juan_Medical_Center.jpg,38.669674,-121.313826
+Castro Valley,94546,Eden Medical Center,"20103 Lake Chabot Road, Castro Valley, CA 94546",(510) 537-1234,Eden_Medical_Center.jpg,37.698004,-122.0893
+Chester,96020,Seneca District Hospital,"130 Brentwood Drive, Chester, CA 96020",(530) 258-3091,Seneca_District_Hospital.jpg,40.305473,-121.234265
+Chico,95926,Enloe Medical Center,"1531 Esplanade, Chico, CA 95926",(530) 332-7300,Enloe_Medical_Center.jpg,39.742054,-121.850464
+Chino,91710,Chino Valley Medical Center,"5451 Walnut Avenue, Chino, CA 91710",(909) 464-8600,Chino_Valley_Medical_Center.jpg,34.025614,-117.685828
+Chula Vista,91910,Scripps Mercy Hospital Chula Vista,"435 H Street, Chula Vista, CA 91910",(619) 691-7000,Scripps_Mercy_Hospital_Chula_Vista.jpg,32.633589,-117.083049
+Chula Vista,91911,Sharp Chula Vista Medical Center,"751 Medical Center Court, Chula Vista, CA 91911",(619) 502-5800,Sharp_Chula_Vista_Medical_Center.jpg,32.618971,-117.023197
+Clovis,93611,Clovis Community Medical Center,"2755 Herndon Avenue, Clovis, CA 93611",(559) 324-4000,Clovis_Community_Medical_Center.jpg,36.839043,-119.660354
+Colton,92324,Arrowhead Regional Medical Center,"400 North Pepper Avenue, Colton, CA 92324",(909) 580-1000,Arrowhead_Regional_Medical_Center.jpg,34.074016,-117.351125
+Concord,94520,John Muir Medical Center - Concord,"2540 East Street, Concord, CA 94520",(925) 682-8200,John_Muir_Medical_Center_-_Concord.jpg,37.982724,-122.033458
+Corcoran,93212,Corcoran District Hospital,"1310 Hanna Avenue, Corcoran, CA 93212",(559) 992-5051,Corcoran_District_Hospital.jpg,36.099896,-119.564015
+Corona,92882,Corona Regional Medical Center,"800 South Main Street, Corona, CA 92882",(951) 737-4343,Corona_Regional_Medical_Center.jpg,33.87278,-117.568313
+Coronado,92118,Sharp Coronado Hospital,"250 Prospect Place, Coronado, CA 92118",(619) 522-3600,Sharp_Coronado_Hospital.jpg,32.694122,-117.168371
+Covina,91723,Citrus Valley Medical Center - Inter-Community Campus,"210 West San Bernardino Road, Covina, CA 91723",(626) 331-7331,Citrus_Valley_Medical_Center_-_Inter-Community_Campus.jpg,34.088121,-117.89336
+Crescent City,95531,Sutter Coast Hospital,"800 East Washington Boulevard, Crescent City, CA 95531",(707) 464-8511,Sutter_Coast_Hospital.jpg,41.773716,-124.194
+Daly City,94015,Seton Medical Center,"1900 Sullivan Avenue, Daly City, CA 94015",(650) 992-4000,Seton_Medical_Center.jpg,37.679761,-122.474501
+Davis,95616,Sutter Davis Hospital,"2000 Sutter Place, Davis, CA 95616",(530) 756-6440,Sutter_Davis_Hospital.jpg,38.562917,-121.771301
+Delano,93215,Delano Regional Medical Center,"1401 Garces Highway, Delano, CA 93215",(661) 725-4800,Delano_Regional_Medical_Center.jpg,35.762162,-119.238886
+Downey,90242,Kaiser Permanente Downey Medical Center,"9333 Imperial Highway, Downey, CA 90242",(562) 657-9000,Kaiser_Permanente_Downey_Medical_Center.jpg,33.91909,-118.12873
+Downey,90241,PIH Health Hospital - Downey,"11500 Brookshire Avenue, Downey, CA 90241",(562) 904.5000,PIH_Health_Hospital_-_Downey.jpg,33.934405,-118.131046
+Duarte,91010,City of Hope Helford Clinical Research Hospital,"1500 East Duarte Road, Duarte, CA 91010",(626) 256–4673,City_of_Hope_Helford_Clinical_Research_Hospital.jpg,34.129634,-117.970767
+Encinitas,92024,Scripps Memorial Hospital Encinitas,"354 Santa Fe Drive, Encinitas, CA 92024",(760) 633-6501,Scripps_Memorial_Hospital_Encinitas.jpg,33.036901,-117.283913
+Encino,91436,Encino Hospital Medical Center,"16237 Ventura Boulevard, Encino, CA 91436",(818) 995-5000,Encino_Hospital_Medical_Center.jpg,34.157587,-118.487069
+Escondido,92025,Palomar Medical Center,"555 East Valley Parkway, Escondido, CA 92025",(760) 739.3000,Palomar_Medical_Center.jpg,33.125088,-117.075304
+Eureka,95501,Saint Joseph Hospital - Eureka,"2700 Dolbeer Street, Eureka, CA 95501",(707) 445-8121,Saint_Joseph_Hospital_-_Eureka.jpg,40.783708,-124.141968
+Fairfield,94533,Northbay Medical Center,"1200 B Gale Wilson Boulevard, Fairfield, CA 94533",(707) 646-5000,Northbay_Medical_Center.jpg,38.261899,-122.047494
+Fall River Mills,96028,Mayers Memorial Hospital District,"43563 State Highway 299 East, Fall River Mills, CA 96028",(530) 336-5511,Mayers_Memorial_Hospital_District.jpg,41.024428,-121.424286
+Fallbrook,92028,Fallbrook Hospital,"624 East Elder Street, Fallbrook, CA 92028",(760) 728-1191,Fallbrook_Hospital.jpg,33.380749,-117.244607
+Folsom,95630,Mercy Hospital of Folsom,"1650 Creekside Drive, Folsom, CA 95630",(916) 983-7400,Mercy_Hospital_of_Folsom.jpg,38.670378,-121.145784
+Fontana,92335,Kaiser Permanente Fontana Medical Center,"9961 Sierra Avenue, Fontana, CA 92335",(909) 427-5000,Kaiser_Permanente_Fontana_Medical_Center.jpg,34.072245,-117.431968
+Fort Bragg,95437,Mendocino Coast District Hospital,"700 River Drive, Fort Bragg, CA 95437",(707) 961-1234,Mendocino_Coast_District_Hospital.jpg,39.432594,-123.801498
+Fortuna,95540,Redwood Memorial Hospital,"3300 Renner Drive, Fortuna, CA 95540",(707) 725-3361,Redwood_Memorial_Hospital.jpg,40.58232,-124.136518
+Fountain Valley,92708,Fountain Valley Regional Hospital and Medical Center,"17100 Euclid Street, Fountain Valley, CA 92708",(714) 966-7200,Fountain_Valley_Regional_Hospital_and_Medical_Center.jpg,33.715049,-117.935723
+Fountain Valley,92708,Orange Coast Memorial Medical Center,"18111 Brookhurst Street, Fountain Valley, CA 92708",(714) 378-7000,Orange_Coast_Memorial_Medical_Center.jpg,33.700231,-117.95497
+Fremont,94538,Kaiser Permanente Fremont Medical Center,"39400 Paseo Padre Parkway, Fremont, CA 94538",(510) 248-3000,Kaiser_Permanente_Fremont_Medical_Center.jpg,37.552429,-121.974729
+Fremont,94538,Washington Hospital,"2000 Mowry Avenue, Fremont, CA 94538",(510) 797-1111,Washington_Hospital.jpg,37.55726,-121.97976
+French Camp,95231,San Joaquin General Hospital,"500 West Hospital Road, French Camp, CA 95231",(209) 468-6000,San_Joaquin_General_Hospital.jpg,37.886967,-121.283052
+Fresno,93702,Community Health Center - Cedar,"445 South Cedar Avenue, Fresno, CA 93702",(209) 453-4000,Community_Health_Center_-_Cedar.jpg,36.739189,-119.753378
+Fresno,93721,Community Regional Medical Center,"2823 Fresno Street, Fresno, CA 93721",(559) 459-4000,Community_Regional_Medical_Center.jpg,36.742972,-119.78422
+Fresno,93720,Fresno Heart and Surgical Hospital,"15 East Audubon Drive, Fresno, CA 93720",(559) 433-8000,Fresno_Heart_and_Surgical_Hospital.jpg,36.859923,-119.788578
+Fresno,93710,Fresno Surgical Hospital,"6125 North Fresno Street, Fresno, CA 93710",(559) 431–8000,Fresno_Surgical_Hospital.jpg,36.825026,-119.781918
+Fresno,93720,Kaiser Permanente Fresno Medical Center,"7300 North Fresno Street, Fresno, CA 93720",(559) 448-4500,Kaiser_Permanente_Fresno_Medical_Center.jpg,36.842803,-119.781008
+Fresno,93720,Saint Agnes Medical Center,"1303 East Herndon Avenue, Fresno, CA 93720",(559) 450-3000,Saint_Agnes_Medical_Center.jpg,36.835202,-119.765528
+Fullerton,92835,St. Jude Medical Center,"101 East Valencia Mesa Drive, Fullerton, CA 92835",(714) 871-3280,St._Jude_Medical_Center.jpg,33.892859,-117.92805
+Garberville,95542,Jerold Phelps Community Hospital,"733 Cedar Street, Garberville, CA 95542",(707) 923-3921,Jerold_Phelps_Community_Hospital.jpg,40.1016,-123.792598
+Garden Grove,92843,Garden Grove Hospital and Medical Center,"12601 Garden Grove Boulevard, Garden Grove, CA 92843",(714) 537-5160 ,Garden_Grove_Hospital_and_Medical_Center.jpg,33.774913,-117.91294
+Gardena,90247,Memorial Hospital of Gardena,"1145 West Redondo Beach Boulevard, Gardena, CA 90247",(310) 532-4200,Memorial_Hospital_of_Gardena.jpg,33.893071,-118.29506
+Gilroy,95020,Saint Louise Regional Hospital,"9400 No Name Uno, Gilroy, CA 95020",(408) 848-2000,Saint_Louise_Regional_Hospital.jpg,37.036612,-121.57124
+Glendale,91206,Glendale Adventist Medical Center,"1509 Wilson Terrace, Glendale, CA 91206",(818) 409-8000,Glendale_Adventist_Medical_Center.jpg,34.146545,-118.229432
+Glendale,91204,Glendale Memorial Hospital and Health Center,"1420 South Central Avenue, Glendale, CA 91204",(818) 502-1900,Glendale_Memorial_Hospital_and_Health_Center.jpg,34.128057,-118.256859
+Glendora,91741,Foothill Presbyterian Hospital,"250 South Grand Avenue, Glendora, CA 91741",(626) 963-8411,Foothill_Presbyterian_Hospital.jpg,34.132885,-117.871207
+Glendora,91740,Glendora Hospital Community Center,"150 West Route 66, Glendora, CA 91740",(626) 852-5000,Glendora_Hospital_Community_Center.jpg,34.127606,-117.865002
+Grass Valley,95945,Sierra Nevada Memorial Hospital,"155 Glasson Way, Grass Valley, CA 95945",(530) 274-6000,Sierra_Nevada_Memorial_Hospital.jpg,39.228103,-121.046891
+Greenbrae,94904,Marin General Hospital,"250 Bon Air Road, Greenbrae, CA 94904",(415) 925-7000,Marin_General_Hospital.jpg,37.94736,-122.536027
+Hanford,93230,Adventist Medical Center - Hanford,"115 Mall Drive, Hanford, CA 93230",(559) 582-9000,Adventist_Medical_Center_-_Hanford.jpg,36.323787,-119.666447
+Hanford,93230,Central Valley General Hospital,"1025 North Douty Street, Hanford, CA 93230",(559) 583-2100,Central_Valley_General_Hospital.jpg,36.336097,-119.645638
+Harbor City,90710,Kaiser Permanente South Bay Medical Center,"25825 Vermont Avenue, Harbor City, CA 90710",(310) 325-5111,Kaiser_Permanente_South_Bay_Medical_Center.jpg,33.788567,-118.295674
+Hawaiian Gardens,90716,Tri - City Regional Medical Center,"21530 South Pioneer Boulevard, Hawaiian Gardens, CA 90716",(877) 877-1104,Tri_-_City_Regional_Medical_Center.jpg,33.833562,-118.0794
+Hayward,94545,Saint Rose Hospital,"27200 Calaroga Avenue, Hayward, CA 94545",(510) 264-4000,Saint_Rose_Hospital.jpg,37.633704,-122.087952
+Healdsburg,95448,Healdsburg District Hospital,"1375 University Avenue, Healdsburg, CA 95448",(707) 431-6500,Healdsburg_District_Hospital.jpg,38.627166,-122.864424
+Hemet,92543,Hemet Valley Medical Center,"1117 East Devonshire Avenue, Hemet, CA 92543",(951) 652-2811 ,Hemet_Valley_Medical_Center.jpg,33.750347,-116.960037
+Hollister,95023,Hazel Hawkins Memorial Hospital,"911 Sunset Drive, Hollister, CA 95023",(831) 637-5711,Hazel_Hawkins_Memorial_Hospital.jpg,36.835106,-121.386365
+Hollywood,90028,Southern California Hospital at Hollywood,"6245 de Longpre Avenue, Hollywood, CA 90028",(323) 462–2271,Southern_California_Hospital_at_Hollywood.jpg,34.096445,-118.325197
+Huntington Beach,92647,Huntington Beach Hospital,"17772 Beach Boulevard, Huntington Beach, CA 92647",(714) 843-5000,Huntington_Beach_Hospital.jpg,33.70364,-117.986656
+Huntington Park,90255,Community Hospital of Huntington Park,"2623 East Slauson Avenue, Huntington Park, CA 90255",(323) 583-1931,Community_Hospital_of_Huntington_Park.jpg,33.989522,-118.224258
+Inglewood,90301,Centinela Hospital Medical Center,"555 East Hardy Street, Inglewood, CA 90301",(310) 673-4660,Centinela_Hospital_Medical_Center.jpg,33.950764,-118.348279
+Irvine,92618,Hoag Orthopedic Institute,"16200 Sand Canyon Avenue, Irvine, CA 92618",(949) 764-4624,Hoag_Orthopedic_Institute.jpg,33.660895,-117.772236
+Jackson,95642,Sutter Amador Hospital,"200 Mission Boulevard, Jackson, CA 95642",(209) 223-7500,Sutter_Amador_Hospital.jpg,38.351073,-120.764826
+King City,93930,George L. Mee Memorial Hospital,"300 Canal Street, King City, CA 93930",(831) 385-6000,George_L._Mee_Memorial_Hospital.jpg,36.205981,-121.132912
+La Jolla,92037,Scripps Green Hospital,"10666 North Torrey Pines Road, La Jolla, CA 92037",(858) 554-9100,Scripps_Green_Hospital.jpg,32.898364,-117.242961
+La Jolla,92037,Scripps Memorial Hospital La Jolla,"9888 Genesee Avenue, La Jolla, CA 92037",(858) 626-4123,Scripps_Memorial_Hospital_La_Jolla.jpg,32.885216,-117.225236
+La Mesa,91942,Sharp Grossmont Hospital,"5555 Grossmont Center Drive, La Mesa, CA 91942",(619) 740-6000,Sharp_Grossmont_Hospital.jpg,32.780777,-117.007102
+La Palma,90623,La Palma Intercommunity Hospital,"7901 Walker Street, La Palma, CA 90623",(714) 670-7400,La_Palma_Intercommunity_Hospital.jpg,33.847533,-118.038414
+Laguna Beach,92651,Mission Hospital - Laguna Beach,"31872 Coast Highway, Laguna Beach, CA 92651",(949) 499-1311,Mission_Hospital_-_Laguna_Beach.jpg,33.500419,-117.741466
+Laguna Hills,92653,Saddleback Memorial Medical Center - Laguna Hills,"24451 Health Center Drive, Laguna Hills, CA 92653",(949) 837-4500,Saddleback_Memorial_Medical_Center_-_Laguna_Hills.jpg,33.608901,-117.708725
+Lake Isabella,93240,Kern Valley Healthcare District,"6412 Laurel Avenue, Lake Isabella, CA 93240",(760) 379-2681,Kern_Valley_Healthcare_District.jpg,35.635365,-118.406366
+Lakewood,90712,Lakewood Regional Medical Center,"3700 East South Street, Lakewood, CA 90712",(562) 531-2550,Lakewood_Regional_Medical_Center.jpg,33.859878,-118.14863
+Lancaster,93534,Antelope Valley Hospital,"1600 West Avenue J, Lancaster, CA 93534",(661) 949-5000 ,Antelope_Valley_Hospital.jpg,34.688483,-118.158457
+Lodi,95240,Lodi Memorial Hospital,"975 South Fairmont Avenue, Lodi, CA 95240",(209) 334-3411,Lodi_Memorial_Hospital.jpg,38.121858,-121.286652
+Loma Linda,92354,Loma Linda University Medical Center,"11234 Anderson Street, Loma Linda, CA 92354",(909) 558-4000,Loma_Linda_University_Medical_Center.jpg,34.050783,-117.264047
+Loma Linda,92354,Loma Linda University Medical Center - East,"25333 Barton Road, Loma Linda, CA 92354",(909) 558-6000,Loma_Linda_University_Medical_Center_-_East.jpg,34.047222,-117.251539
+Lompoc,93436,Lompoc Valley Medical Center,"1515 East Ocean Avenue, Lompoc, CA 93436",(805) 737-3300,Lompoc_Valley_Medical_Center.jpg,34.640749,-120.439583
+Lone Pine,93545,Southern Inyo Hospital,"501 East Locust Street, Lone Pine, CA 93545",(760) 876-5501,Southern_Inyo_Hospital.jpg,36.609048,-118.057944
+Long Beach,90804,Community Hospital of Long Beach,"1720 Termino Avenue, Long Beach, CA 90804",(562) 498-1000,Community_Hospital_of_Long_Beach.jpg,33.788474,-118.145292
+Long Beach,90806,Long Beach Memorial Medical Center,"2801 Atlantic Avenue, Long Beach, CA 90806",(562) 933-2000,Long_Beach_Memorial_Medical_Center.jpg,33.807975,-118.186697
+Long Beach,90806,Miller Children's Hospital,"2801 Atlantic Avenue, Long Beach, CA 90806",(562) 933-5437,Miller_Children_Hospital.jpg,33.807975,-118.186697
+Long Beach,90813,St. Mary Medical Center - Long Beach,"1050 Linden Avenue, Long Beach, CA 90813",(562) 491-9000,St._Mary_Medical_Center_-_Long_Beach.jpg,33.779852,-118.185955
+Los Alamitos,90720,Los Alamitos Medical Center,"3751 Katella Avenue, Los Alamitos, CA 90720",(562) 598-1311,Los_Alamitos_Medical_Center.jpg,33.803713,-118.067369
+Los Angeles,90015,California Hospital Medical Center,"1401 South Grand Avenue, Los Angeles, CA 90015",(213) 748-2411,California_Hospital_Medical_Center.jpg,34.037396,-118.265781
+Los Angeles,90048,Cedars - Sinai Medical Center,"8700 Beverly Boulevard, Los Angeles, CA 90048",(310) 423-3277,Cedars_-_Sinai_Medical_Center.jpg,34.074943,-118.380349
+Los Angeles,90023,East Los Angeles Doctors Hospital,"4060 Whittier Boulevard, Los Angeles, CA 90023",(323) 268-5514,East_Los_Angeles_Doctors_Hospital.jpg,34.023768,-118.18415
+Los Angeles,90017,Good Samaritan Hospital - Los Angeles,"1225 Wilshire Boulevard, Los Angeles, CA 90017",(213) 977-2121,Good_Samaritan_Hospital_-_Los_Angeles.jpg,34.054593,-118.265191
+Los Angeles,90027,Hollywood Presbyterian Medical Center,"1300 North Vermont Avenue, Los Angeles, CA 90027",(213) 413.3000,Hollywood_Presbyterian_Medical_Center.jpg,34.096032,-118.29101
+Los Angeles,90027,Kaiser Permanente Los Angeles Medical Center,"4867 West Sunset Boulevard, Los Angeles, CA 90027",(800) 954-8000,Kaiser_Permanente_Los_Angeles_Medical_Center.jpg,34.098434,-118.294333
+Los Angeles,90034,Kaiser Permanente West Los Angeles Medical Center,"6041 Cadillac Avenue, Los Angeles, CA 90034",(323) 857-2000,Kaiser_Permanente_West_Los_Angeles_Medical_Center.jpg,34.038354,-118.375733
+Los Angeles,90033,Keck Hospital of USC,"1500 San Pablo Street, Los Angeles, CA 90033",(888) 700-5700,Keck_Hospital_of_USC.jpg,34.06205,-118.201557
+Los Angeles,90033,LAC + USC Medical Center,"2051 Marengo Street, Los Angeles, CA 90033",(323) 409-1000 ,LAC_+_USC_Medical_Center.jpg,34.057627,-118.208359
+Los Angeles,90023,Los Angeles Community Hospital at Los Angeles,"4081 East Olympic Boulevard, Los Angeles, CA 90023",(323) 267-0477,Los_Angeles_Community_Hospital_at_Los_Angeles.jpg,34.019235,-118.186553
+Los Angeles,90095,Mattel Children's Hospital UCLA,"757 Westwood Plaza, Los Angeles, CA 90095",(310) 825-9111,Mattel_Children_Hospital_UCLA.jpg,34.066117,-118.445743
+Los Angeles,90036,Olympia Medical Center,"5900 West Olympic Boulevard, Los Angeles, CA 90036",(310) 657-5900 ,Olympia_Medical_Center.jpg,34.057414,-118.359873
+Los Angeles,90012,Pacific Alliance Medical Center,"531 West College Street, Los Angeles, CA 90012",(213) 624-8411,Pacific_Alliance_Medical_Center.jpg,34.064906,-118.239224
+Los Angeles,90095,Ronald Reagan UCLA Medical Center,"757 Westwood Plaza, Los Angeles, CA 90095",(310) 825-9111,Ronald_Reagan_UCLA_Medical_Center.jpg,34.066117,-118.445743
+Los Angeles,90057,Saint Vincent Medical Center,"2131 West 3rd Street, Los Angeles, CA 90057",(213) 484-7111,Saint_Vincent_Medical_Center.jpg,34.063824,-118.273649
+Los Angeles,90026,Silver Lake Medical Center,"1711 West Temple Street, Los Angeles, CA 90026",(213) 989-6100,Silver_Lake_Medical_Center.jpg,34.06968,-118.263513
+Los Angeles,90004,Temple Community Hospital,"235 North Hoover Street, Los Angeles, CA 90004",(213) 382-7252,Temple_Community_Hospital.jpg,34.075603,-118.284125
+Los Angeles,90033,White Memorial Medical Center,"1720 Cesar E. Chavez Avenue, Los Angeles, CA 90033",(323) 268-5000,White_Memorial_Medical_Center.jpg,34.049181,-118.217269
+Los Banos,93635,Memorial Hospital Los Banos,"520 West I Street, Los Banos, CA 93635",(209) 826-0591,Memorial_Hospital_Los_Banos.jpg,37.064058,-120.859489
+Los Gatos,95032,El Camino Hospital Los Gatos,"815 Pollard Road, Los Gatos, CA 95032",(408) 378-6131,El_Camino_Hospital_Los_Gatos.jpg,37.263064,-121.969342
+Lynwood,90262,Saint Francis Medical Center,"3630 East Imperial Highway, Lynwood, CA 90262",(310) 900-8900,Saint_Francis_Medical_Center.jpg,33.92985,-118.20304
+Madera,93637,Madera Community Hospital,"1250 East Almond Avenue, Madera, CA 93637",(559) 675-5555,Madera_Community_Hospital.jpg,36.944025,-120.044366
+Madera,93636,Valley Children's Hospital,"9300 Valley Childrens Place, Madera, CA 93636",(559) 353-3000,Valley_Children_Hospital.jpg,36.884299,-119.799989
+Manteca,95336,Doctors Hospital of Manteca,"1205 East North Street, Manteca, CA 95336",(209) 823-3111,Doctors_Hospital_of_Manteca.jpg,37.80155,-121.197502
+Manteca,95337,Kaiser Permanente Manteca Medical Center,"1777 West Yosemite Avenue, Manteca, CA 95337",(209) 825-3700,Kaiser_Permanente_Manteca_Medical_Center.jpg,37.79803,-121.246197
+Marina Del Rey,90292,Marina Del Rey Hospital,"4650 Lincoln Boulevard, Marina Del Rey, CA 90292",(310) 823-8911,Marina_Del_Rey_Hospital.jpg,33.982087,-118.439029
+Martinez,94553,Contra Costa Regional Medical Center,"2500 Alhambra Avenue, Martinez, CA 94553",(925) 370-5000,Contra_Costa_Regional_Medical_Center.jpg,38.006764,-122.132794
+Marysville,95901,Rideout Memorial Hospital,"726 4th Street, Marysville, CA 95901",(530) 749-4511,Rideout_Memorial_Hospital.jpg,39.138252,-121.594262
+Menlo Park,94025,Menlo Park Surgical Hospital,"570 Willow Road, Menlo Park, CA 94025",(650) 324-8500,Menlo_Park_Surgical_Hospital.jpg,37.461662,-122.159144
+Merced,95340,Mercy Medical Center Merced,"333 Mercy Avenue, Merced, CA 95340",(209) 564-5000,Mercy_Medical_Center_Merced.jpg,37.339977,-120.467296
+Merced,95340,Mercy Medical Center Merced Dominican,"2740 M Street, Merced, CA 95340",(209) 564-5000,Mercy_Medical_Center_Merced_Dominican.jpg,37.31213,-120.477999
+Mission Hills,91345,Providence Holy Cross Medical Center,"15031 Rinaldi Street, Mission Hills, CA 91345",(818) 365-8051,Providence_Holy_Cross_Medical_Center.jpg,34.280154,-118.460335
+Mission Viejo,92691,CHOC Children's at Mission Hospital,"27700 Medical Center Road 5th Floor, Mission Viejo, CA 92691",(949) 364-1400,CHOC_Children_at_Mission_Hospital.jpg,33.560996,-117.665304
+Mission Viejo,92691,Mission Hospital - Mission Viejo,"27700 Medical Center Road, Mission Viejo, CA 92691",(949) 364-1400,Mission_Hospital_-_Mission_Viejo.jpg,33.560996,-117.665304
+Modesto,95350,Doctors Medical Center of Modesto,"1441 Florida Avenue, Modesto, CA 95350",(209) 578-1211,Doctors_Medical_Center_of_Modesto.jpg,37.665397,-120.997426
+Modesto,95355,Memorial Medical Center,"1700 Coffee Road, Modesto, CA 95355",(209) 526-4500,Memorial_Medical_Center.jpg,37.668671,-120.973386
+Modesto,95355,Stanislaus Surgical Hospital,"1421 Oakdale Road, Modesto, CA 95355",(209) 572-2700,Stanislaus_Surgical_Hospital.jpg,37.664769,-120.958318
+Montclair,91763,Montclair Hospital Medical Center,"5000 San Bernardino Street, Montclair, CA 91763",(909) 625-5411,Montclair_Hospital_Medical_Center.jpg,34.078679,-117.695967
+Montebello,90640,Beverly Hospital,"309 West Beverly Boulevard, Montebello, CA 90640",(323) 726-1222,Beverly_Hospital.jpg,34.015015,-118.100636
+Monterey,93940,Community Hospital of the Monterey Peninsula,"23625 Holman Highway, Monterey, CA 93940",(831) 624-5311,Community_Hospital_of_the_Monterey_Peninsula.jpg,36.578716,-121.913194
+Monterey Park,91754,Garfield Medical Center,"525 North Garfield Avenue, Monterey Park, CA 91754",(626) 573-2222,Garfield_Medical_Center.jpg,34.067982,-118.123759
+Monterey Park,91754,Monterey Park Hospital,"900 South Atlantic Boulevard, Monterey Park, CA 91754",(626) 570-9000,Monterey_Park_Hospital.jpg,34.049415,-118.138286
+Moreno Valley,92555,Kaiser Permanente Moreno Valley Medical Center,"27300 Iris Avenue, Moreno Valley, CA 92555",(951) 243-0811,Kaiser_Permanente_Moreno_Valley_Medical_Center.jpg,33.897404,-117.186026
+Moreno Valley,92555,Riverside County Regional Medical Center,"26520 Cactus Avenue, Moreno Valley, CA 92555",(951) 486-4397,Riverside_County_Regional_Medical_Center.jpg,33.911942,-117.195857
+Mount Shasta,96067,Mercy Medical Center Mount Shasta,"914 Pine Street, Mount Shasta, CA 96067",(530) 926-6111,Mercy_Medical_Center_Mount_Shasta.jpg,41.318661,-122.321199
+Mountain View,94040,El Camino Hospital,"2500 Grant Road, Mountain View, CA 94040",(650) 940-7000,El_Camino_Hospital.jpg,37.369477,-122.079912
+Murrieta,92563,Loma Linda University Medical Center - Murrieta,"28062 Baxter Road, Murrieta, CA 92563",(951) 290-4000,Loma_Linda_University_Medical_Center_-_Murrieta.jpg,33.614587,-117.169149
+Murrieta,92562,Southwest Healthcare System - Rancho Springs Medical Center,"25500 Medical Center Drive, Murrieta, CA 92562",(951) 696-6000,Southwest_Healthcare_System_-_Rancho_Springs_Medical_Center.jpg,33.558946,-117.183837
+Napa,94558,Queen of the Valley Medical Center,"1000 Trancas Street, Napa, CA 94558",(707) 252-4411,Queen_of_the_Valley_Medical_Center.jpg,38.324567,-122.296684
+National City,91950,Paradise Valley Hospital,"2400 East 4th Street, National City, CA 91950",(619) 470-4321,Paradise_Valley_Hospital.jpg,32.685113,-117.082885
+Newport Beach,92663,Hoag Memorial Hospital Presbyterian,"One Hoag Drive, Newport Beach, CA 92663",(949) 764-4624,Hoag_Memorial_Hospital_Presbyterian.jpg,33.623089,-117.929646
+Northridge,91325,Northridge Hospital Medical Center,"18300 Roscoe Boulevard, Northridge, CA 91325",(818) 885-8500,Northridge_Hospital_Medical_Center.jpg,34.220398,-118.533595
+Norwalk,90650,Coast Plaza Hospital,"13100 Studerbaker Road, Norwalk, CA 90650",(562) 868-3751,Coast_Plaza_Hospital.jpg,33.912586,-118.098663
+Norwalk,90650,Norwalk Community Hospital,"13222 Bloomfield Avenue, Norwalk, CA 90650",(562) 863-4763,Norwalk_Community_Hospital.jpg,33.910629,-118.063918
+Novato,94945,Novato Community Hospital,"180 Rowland Way, Novato, CA 94945",(415) 209-1300,Novato_Community_Hospital.jpg,38.099311,-122.560363
+Oakdale,95361,Oak Valley Hospital,"350 South Oak Avenue, Oakdale, CA 95361",(209) 847-3011,Oak_Valley_Hospital.jpg,37.757078,-120.86109
+Oakland,94602,Alameda Health System - Highland Hospital,"1411 East 31st Street, Oakland, CA 94602",(510) 437-4800,Alameda_Health_System_-_Highland_Hospital.jpg,37.79863,-122.231627
+Oakland,94609,Alta Bates Summit Medical Center - Summit,"350 Hawthorne Avenue, Oakland, CA 94609",(510) 655-4000,Alta_Bates_Summit_Medical_Center_-_Summit.jpg,37.8218,-122.26268
+Oakland,94611,Kaiser Permanente Oakland Medical Center,"3600 Broadway, Oakland, CA 94611",(510) 752-6459,Kaiser_Permanente_Oakland_Medical_Center.jpg,37.823013,-122.257946
+Oceanside,92056,Tri - City Medical Center,"4002 Vista Way, Oceanside, CA 92056",(760) 724-8411,Tri_-_City_Medical_Center.jpg,33.184407,-117.290383
+Orange,92869,Chapman Medical Center,"2601 East Chapman Avenue, Orange, CA 92869",(714) 633-0011,Chapman_Medical_Center.jpg,33.788731,-117.82639
+Orange,92868,Children's Hospital of Orange County,"1201 W La Veta Ave, Orange, CA 92868",(714) 997-3000,Children_Hospital_of_Orange_County.jpg,33.780778,-117.865543
+Orange,92868,Saint Joseph Hospital - Orange,"1100 West Stewart Drive, Orange, CA 92868",(714) 633.9111,Saint_Joseph_Hospital_-_Orange.jpg,33.78214,-117.864951
+Orange,92868,UC Irvine Medical Center,"101 The City Drive South, Orange, CA 92868",(714) 456-7890,UC_Irvine_Medical_Center.jpg,33.788013,-117.890248
+Oroville,95966,Oroville Hospital,"2767 Olive Highway, Oroville, CA 95966",(530) 533-8500,Oroville_Hospital.jpg,39.50626,-121.541093
+Oxnard,93030,St. John's Regional Medical Center,"1600 North Rose Avenue, Oxnard, CA 93030",(805) 988-2500,St._John_Regional_Medical_Center.jpg,34.216642,-119.155648
+Palmdale,93551,Palmdale Regional Medical Center,"38600 Medical Center Drive, Palmdale, CA 93551",(661) 382-5000,Palmdale_Regional_Medical_Center.jpg,34.583014,-118.145195
+Palo Alto,94304,Lucile Packard Children's Hospital,"725 Welch Road, Palo Alto, CA 94304",(650) 497-8000,Lucile_Packard_Children_Hospital.jpg,37.435989,-122.175123
+Panorama City,91402,Kaiser Permanente Panorama City Medical Center,"13651 Willard Street, Panorama City, CA 91402",(818) 375-2000,Kaiser_Permanente_Panorama_City_Medical_Center.jpg,34.218386,-118.430206
+Panorama City,91402,Mission Community Hospital,"14850 Roscoe Boulevard, Panorama City, CA 91402",(818) 787-2222,Mission_Community_Hospital.jpg,34.220906,-118.456785
+Paradise,95969,Feather River Hospital,"5974 Pentz Road, Paradise, CA 95969",(530) 877-9361,Feather_River_Hospital.jpg,39.757082,-121.570169
+Pasadena,91105,Huntington Memorial Hospital,"100 West California Boulevard, Pasadena, CA 91105",(626) 397-5000,Huntington_Memorial_Hospital.jpg,34.133639,-118.152753
+Petaluma,94954,Petaluma Valley Hospital,"400 North Mcdowell Boulevard, Petaluma, CA 94954",(707) 778-1111,Petaluma_Valley_Hospital.jpg,38.25459,-122.631654
+Placentia,92870,Placentia - Linda Hospital,"1301 North Rose Drive, Placentia, CA 92870",(714) 993-2000,Placentia_-_Linda_Hospital.jpg,33.887223,-117.842124
+Placerville,95667,Marshall Medical Center,"1100 Marshall Way, Placerville, CA 95667",(530) 622-1441,Marshall_Medical_Center.jpg,38.725623,-120.790957
+Pleasanton,94588,Valleycare Medical Center,"5555 West Las Positas Boulevard, Pleasanton, CA 94588",(925) 847-3000,Valleycare_Medical_Center.jpg,37.694405,-121.880208
+Pomona,91767,Pomona Valley Hospital Medical Center,"1798 North Garey Avenue, Pomona, CA 91767",(909) 865-9500,Pomona_Valley_Hospital_Medical_Center.jpg,34.076992,-117.750726
+Porterville,93257,Sierra View Medical Center,"465 West Putnam Avenue, Porterville, CA 93257",(559) 784-1110,Sierra_View_Medical_Center.jpg,36.069563,-119.027485
+Portola,96122,Eastern Plumas Health Care,"500 1st Avenue, Portola, CA 96122",(530) 832-6500,Eastern_Plumas_Health_Care.jpg,39.805639,-120.462319
+Poway,92064,Pomerado Hospital,"15615 Pomerado Road, Poway, CA 92064",(858) 613.4000,Pomerado_Hospital.jpg,32.996973,-117.056045
+Quincy,95971,Plumas District Hospital,"1065 Bucks Lake Road, Quincy, CA 95971",(530) 283-2121,Plumas_District_Hospital.jpg,39.93894,-120.962151
+Red Bluff,96080,Saint Elizabeth Community Hospital,"2550 Sister Mary Columba Drive, Red Bluff, CA 96080",(530) 529-8000,Saint_Elizabeth_Community_Hospital.jpg,40.148552,-122.21902
+Redding,96001,Mercy Medical Center Redding,"2175 Rosaline Avenue, Redding, CA 96001",(530) 225-6000,Mercy_Medical_Center_Redding.jpg,40.571877,-122.395244
+Redding,96001,Patients' Hospital of Redding,"2900 Eureka Way, Redding, CA 96001",(530) 225-8700,Patients_Hospital_of_Redding.jpg,40.58596,-122.41679
+Redding,96001,Shasta Regional Medical Center,"1100 Butte Street, Redding, CA 96001",(530) 244-5400,Shasta_Regional_Medical_Center.jpg,40.585628,-122.387739
+Redlands,92373,Redlands Community Hospital,"350 Terracina Boulevard, Redlands, CA 92373",(909) 335-5500,Redlands_Community_Hospital.jpg,34.036537,-117.205174
+Redwood City,94063,Kaiser Permanente Redwood City Medical Center,"1150 Veterans Boulevard, Redwood City, CA 94063",(650) 299-2000,Kaiser_Permanente_Redwood_City_Medical_Center.jpg,37.489371,-122.223814
+Redwood City,94062,Sequoia Hospital,"170 Alameda De Las Pulgas, Redwood City, CA 94062",(650) 369-5811,Sequoia_Hospital.jpg,37.480277,-122.253776
+Reedley,93654,Adventist Medical Center - Reedley,"372 West Cypress Avenue, Reedley, CA 93654",(559) 638-8155,Adventist_Medical_Center_-_Reedley.jpg,36.607816,-119.451335
+Richmond,94801,Kaiser Permanente Richmond Medical Center,"901 Nevin Avenue, Richmond, CA 94801",(510) 307-1500,Kaiser_Permanente_Richmond_Medical_Center.jpg,37.93712,-122.360502
+Ridgecrest,93555,Ridgecrest Regional Hospital,"1081 North China Lake Boulevard, Ridgecrest, CA 93555",(760) 446-3551,Ridgecrest_Regional_Hospital.jpg,35.64086,-117.671187
+Riverside,92505,Kaiser Permanente Riverside Medical Center,"10800 Magnolia Avenue, Riverside, CA 92505",(951) 353-2000,Kaiser_Permanente_Riverside_Medical_Center.jpg,33.9047,-117.469216
+Riverside,92503,Parkview Community Hospital Medical Center,"3865 Jackson Street, Riverside, CA 92503",(951) 688-2211,Parkview_Community_Hospital_Medical_Center.jpg,33.927128,-117.439224
+Riverside,92501,Riverside Community Hospital,"4445 Magnolia Avenue, Riverside, CA 92501",(951) 788-3000,Riverside_Community_Hospital.jpg,33.976668,-117.381043
+Roseville,95661,Kaiser Permanente Roseville Medical Center,"1600 Eureka Road, Roseville, CA 95661",(916) 784-4000,Kaiser_Permanente_Roseville_Medical_Center.jpg,38.746527,-121.250444
+Roseville,95661,Sutter Roseville Medical Center,"1 Medical Plaza Drive, Roseville, CA 95661",(916) 781-1000,Sutter_Roseville_Medical_Center.jpg,38.766012,-121.249633
+Sacramento,95825,Kaiser Permanente Sacramento Medical Center,"2025 Morse Avenue, Sacramento, CA 95825",(916) 973-5000,Kaiser_Permanente_Sacramento_Medical_Center.jpg,38.601383,-121.393137
+Sacramento,95823,Kaiser Permanente South Sacramento Medical Center,"6600 Bruceville Road, Sacramento, CA 95823",(916) 688-2000,Kaiser_Permanente_South_Sacramento_Medical_Center.jpg,38.470306,-121.422379
+Sacramento,95819,Mercy General Hospital,"4001 J Street, Sacramento, CA 95819",(916) 453-4559,Mercy_General_Hospital.jpg,38.57026,-121.452408
+Sacramento,95823,Methodist Hospital of Sacramento,"7500 Hospital Drive, Sacramento, CA 95823",(916) 423-3000,Methodist_Hospital_of_Sacramento.jpg,38.463806,-121.416494
+Sacramento,95816,Sutter General Hospital,"2801 L Street, Sacramento, CA 95816",(916) 454-2222,Sutter_General_Hospital.jpg,38.571738,-121.469374
+Sacramento,95819,Sutter Memorial Hospital,"5151 F Street, Sacramento, CA 95819",(916) 454-3333,Sutter_Memorial_Hospital.jpg,38.571573,-121.438578
+Sacramento,95817,UC Davis Medical Center,"2315 Stockton Boulevard, Sacramento, CA 95817",(916) 734-2011,UC_Davis_Medical_Center.jpg,38.554804,-121.456209
+Saint Helena,94574,St. Helena Hospital,"10 Woodland Road, Saint Helena, CA 94574",(707) 963-3611,St._Helena_Hospital.jpg,38.54255,-122.474827
+Salinas,93906,Natividad Medical Center,"1441 Constitution Boulevard, Salinas, CA 93906",(831) 755-4111,Natividad_Medical_Center.jpg,36.697376,-121.633161
+Salinas,93901,Salinas Valley Memorial Healthcare System,"450 East Romie Lane, Salinas, CA 93901",(831) 757-4333,Salinas_Valley_Memorial_Healthcare_System.jpg,36.659135,-121.645942
+San Andreas,95249,Mark Twain Medical Center,"768 Mountain Ranch Road, San Andreas, CA 95249",(209) 754-3521,Mark_Twain_Medical_Center.jpg,38.190395,-120.669859
+San Bernardino,92411,Community Hospital of San Bernardino,"1805 Medical Center Drive, San Bernardino, CA 92411",(909) 887-6333,Community_Hospital_of_San_Bernardino.jpg,34.131409,-117.321777
+San Bernardino,92404,St. Bernardine Medical Center,"2101 North Waterman Avenue, San Bernardino, CA 92404",(909) 883-8711,St._Bernardine_Medical_Center.jpg,34.135129,-117.276264
+San Clemente,92673,Saddleback Memorial Medical Center San Clemente,"654 Camino de los Mares, San Clemente, CA 92673",(949) 496-1122,Saddleback_Memorial_Medical_Center_San_Clemente.jpg,33.457063,-117.650088
+San Diego,92120,Alvarado Hospital,"6655 Alvarado Road, San Diego, CA 92120",(619) 287-3270,Alvarado_Hospital.jpg,32.776508,-117.057297
+San Diego,92120,Kaiser Permanente San Diego Medical Center,"4647 Zion Avenue, San Diego, CA 92120",(619) 528-5000,Kaiser_Permanente_San_Diego_Medical_Center.jpg,32.791427,-117.09514
+San Diego,92123,Rady Children's Hospital - San Diego,"3020 Childrens Way, San Diego, CA 92123",(858) 576-1700,Rady_Children_Hospital_-_San_Diego.jpg,32.798072,-117.151324
+San Diego,92103,Scripps Mercy Hospital,"4077 5th Avenue, San Diego, CA 92103",(619) 294-8111,Scripps_Mercy_Hospital.jpg,32.751545,-117.1605
+San Diego,92123,Sharp Mary Birch Hospital for Women & Newborns,"3003 Health Center Drive, San Diego, CA 92123",(858) 939-3400,Sharp_Mary_Birch_Hospital_for_Women_and_Newborns.jpg,32.798373,-117.15506
+San Diego,92123,Sharp Memorial Hospital,"7901 Frost Street, San Diego, CA 92123",(858) 939-3400,Sharp_Memorial_Hospital.jpg,32.799488,-117.154055
+San Diego,92103,UCSD Medical Center - Hillcrest,"200 West Arbor Drive, San Diego, CA 92103",(619) 543-6222,UCSD_Medical_Center_-_Hillcrest.jpg,32.754384,-117.165834
+San Dimas,91773,San Dimas Community Hospital,"1350 West Covina Boulevard, San Dimas, CA 91773",(909) 599-6811,San_Dimas_Community_Hospital.jpg,34.097758,-117.834631
+San Francisco,94118,California Pacific Medical Center - California,"3700 California Street, San Francisco, CA 94118",(415) 600-6000,California_Pacific_Medical_Center_-_California.jpg,37.786448,-122.456283
+San Francisco,94114,California Pacific Medical Center - Davies,"45 Castro Street, San Francisco, CA 94114",(415) 600-6000,California_Pacific_Medical_Center_-_Davies.jpg,37.768414,-122.435078
+San Francisco,94115,California Pacific Medical Center - Pacific,"2333 Buchanan Street, San Francisco, CA 94115",(415) 600-6000,California_Pacific_Medical_Center_-_Pacific.jpg,37.790844,-122.431272
+San Francisco,94110,California Pacific Medical Center - Saint Luke's,"3555 Cesar Chavez Street, San Francisco, CA 94110",(415) 641-6527,California_Pacific_Medical_Center_-_Saint_Luke.jpg,37.74766,-122.420701
+San Francisco,94133,Chinese Hospital,"845 Jackson Street, San Francisco, CA 94133",(415) 982-2400,Chinese_Hospital.jpg,37.795524,-122.409187
+San Francisco,94115,Kaiser Permanente San Francisco Medical Center,"2425 Geary Boulevard, San Francisco, CA 94115",(415) 833-2000,Kaiser_Permanente_San_Francisco_Medical_Center.jpg,37.782478,-122.442898
+San Francisco,94109,Saint Francis Memorial Hospital,"900 Hyde Street, San Francisco, CA 94109",(415) 353-6000,Saint_Francis_Memorial_Hospital.jpg,37.789545,-122.416741
+San Francisco,94110,San Francisco General Hospital,"1001 Potrero Avenue, San Francisco, CA 94110",(415) 206-8000,San_Francisco_General_Hospital.jpg,37.756305,-122.404544
+San Francisco,94117,St. Mary's Medical Center - San Francisco,"450 Stanyan Street, San Francisco, CA 94117",(415) 668-1000,St._Mary_Medical_Center_-_San_Francisco.jpg,37.774158,-122.453587
+San Francisco,94158,UCSF Benioff Children's Hospital,"1975 4th St., San Francisco, CA 94158",(415) 476-9000,UCSF_Benioff_Children_Hospital.jpg,37.766905,-122.390831
+San Francisco,94115,UCSF Medical Center at Mount Zion,"1600 Divisadero Street, San Francisco, CA 94115",(415) 567-6600,UCSF_Medical_Center_at_Mount_Zion.jpg,37.784806,-122.439547
+San Francisco,94143,UCSF Medical Center at Parnassus,"505 Parnassus Avenue, San Francisco, CA 94143",(415) 476-1000,UCSF_Medical_Center_at_Parnassus.jpg,37.763049,-122.457756
+San Gabriel,91776,San Gabriel Valley Medical Center,"438 West Las Tunas Drive, San Gabriel, CA 91776",(626) 289-5454,San_Gabriel_Valley_Medical_Center.jpg,34.100806,-118.105878
+San Jose,95124,Good Samaritan Hospital - San Jose,"2425 Samaritan Drive, San Jose, CA 95124",(408) 559-2011,Good_Samaritan_Hospital_-_San_Jose.jpg,37.251659,-121.946544
+San Jose,95119,Kaiser Permanente San Jose Medical Center,"250 Hospital Parkway, San Jose, CA 95119",(408) 972-7000,Kaiser_Permanente_San_Jose_Medical_Center.jpg,37.23961,-121.800278
+San Jose,95128,O'Connor Hospital,"2105 Forest Avenue, San Jose, CA 95128",(408) 947-2500,O_Connor_Hospital.jpg,37.327763,-121.938494
+San Jose,95116,Regional Medical Center - San Jose,"225 North Jackson Avenue, San Jose, CA 95116",(408) 259-5000,Regional_Medical_Center_-_San_Jose.jpg,37.362569,-121.849398
+San Jose,95128,Santa Clara Valley Medical Center,"751 South Bascom Avenue, San Jose, CA 95128",(408) 885-5000,Santa_Clara_Valley_Medical_Center.jpg,37.313258,-121.932814
+San Leandro,94578,San Leandro Hospital,"13855 East 14th Street, San Leandro, CA 94578",(510) 357-6500,San_Leandro_Hospital.jpg,37.712236,-122.143352
+San Luis Obispo,93401,French Hospital Medical Center,"1911 Johnson Avenue, San Luis Obispo, CA 93401",(805) 543-5353,French_Hospital_Medical_Center.jpg,35.278171,-120.651156
+San Luis Obispo,93405,Sierra Vista Regional Medical Center,"1010 Murray Ave, San Luis Obispo, CA 93405",(805) 546-7600,Sierra_Vista_Regional_Medical_Center.jpg,35.291961,-120.666321
+San Mateo,94401,Mills Health Center,"100 South San Mateo Drive, San Mateo, CA 94401",(650) 696-4926,Mills_Health_Center.jpg,37.565005,-122.326083
+San Mateo,94403,San Mateo Medical Center,"222 West 39th Avenue, San Mateo, CA 94403",(650) 573-2222,San_Mateo_Medical_Center.jpg,37.531268,-122.299298
+San Pablo,94806,Doctors Medical Center - San Pablo,"2000 Vale Road, San Pablo, CA 94806",(510) 970-5000,Doctors_Medical_Center_-_San_Pablo.jpg,37.953237,-122.336325
+San Pedro,90732,Providence Little Company of Mary Medical Center San Pedro,"1300 West 7th Street, San Pedro, CA 90732",(310) 832-3311,Providence_Little_Company_of_Mary_Medical_Center_San_Pedro.jpg,33.738196,-118.304913
+San Rafael,94903,Kaiser Permanente San Rafael Medical Center,"99 Montecillo Road, San Rafael, CA 94903",(415) 444-2000,Kaiser_Permanente_San_Rafael_Medical_Center.jpg,38.003965,-122.555288
+San Ramon,94583,San Ramon Regional Medical Center,"6001 Norris Canyon Road, San Ramon, CA 94583",(925) 275-9200,San_Ramon_Regional_Medical_Center.jpg,37.775768,-121.958237
+Santa Ana,92704,Coastal Communities Hospital,"2701 South Bristol Street, Santa Ana, CA 92704",(714) 754-5454,Coastal_Communities_Hospital.jpg,33.711143,-117.884627
+Santa Ana,92705,Western Medical Center Santa Ana,"1001 North Tustin Avenue, Santa Ana, CA 92705",(714) 953-3500,Western_Medical_Center_Santa_Ana.jpg,33.754074,-117.833053
+Santa Barbara,93111,Goleta Valley Cottage Hospital,"351 South Patterson Avenue, Santa Barbara, CA 93111",(805) 967.3411,Goleta_Valley_Cottage_Hospital.jpg,34.433434,-119.810389
+Santa Barbara,93105,Santa Barbara Cottage Hospital,"400 West Pueblo Street, Santa Barbara, CA 93105",(805) 682-7111,Santa_Barbara_Cottage_Hospital.jpg,34.429907,-119.72336
+Santa Clara,95051,Kaiser Permanente Santa Clara Medical Center,"700 Lawrence Expressway, Santa Clara, CA 95051",(408) 851-1000,Kaiser_Permanente_Santa_Clara_Medical_Center.jpg,37.335895,-121.998268
+Santa Cruz,95065,Dominican Hospital,"1555 Soquel Drive, Santa Cruz, CA 95065",(831) 462-7700,Dominican_Hospital.jpg,36.990166,-121.983667
+Santa Cruz,95065,Sutter Maternity and Surgery Center of Santa Cruz,"2900 Chanticleer Avenue, Santa Cruz, CA 95065",(831) 477-2200,Sutter_Maternity_and_Surgery_Center_of_Santa_Cruz.jpg,36.987693,-121.977463
+Santa Maria,93454,Marian Regional Medical Center,"1400 East Church Street, Santa Maria, CA 93454",(805) 739-3000,Marian_Regional_Medical_Center.jpg,34.950983,-120.413316
+Santa Monica,90404,Providence Saint John's Health Center,"2121 Santa Monica Boulevard, Santa Monica, CA 90404",(310) 829-5511,Providence_Saint_John_Health_Center.jpg,34.030507,-118.479329
+Santa Monica,90404,"UCLA Medical Center, Santa Monica","1250 16th Street, Santa Monica, CA 90404",(424) 259-6000,UCLA_Medical_Center_Santa_Monica.jpg,34.026789,-118.486608
+Santa Rosa,95403,Kaiser Permanente Santa Rosa Medical Center,"401 Bicentennial Way, Santa Rosa, CA 95403",(707) 393-4000,Kaiser_Permanente_Santa_Rosa_Medical_Center.jpg,38.472777,-122.726741
+Santa Rosa,95405,Santa Rosa Memorial Hospital,"1165 Montgomery Drive, Santa Rosa, CA 95405",(707) 546-3210,Santa_Rosa_Memorial_Hospital.jpg,38.443616,-122.701399
+Santa Rosa,94503,Sutter Santa Rosa Regional Hospital,"30 Mark West Springs Road, Santa Rosa, CA 94503",(707) 576-4000,Sutter_Santa_Rosa_Regional_Hospital.jpg,38.496263,-122.752738
+Selma,93662,Adventist Medical Center - Selma,"1141 Rose Avenue, Selma, CA 93662",(559) 891-1000,Adventist_Medical_Center_-_Selma.jpg,36.5677,-119.599158
+Sherman Oaks,91403,Sherman Oaks Hospital,"4929 Van Nuys Boulevard, Sherman Oaks, CA 91403",(818) 981-7111,Sherman_Oaks_Hospital.jpg,34.16028,-118.449476
+Solvang,93463,Santa Ynez Valley Cottage Hospital,"2050 Viborg Road, Solvang, CA 93463",(805) 688.6431,Santa_Ynez_Valley_Cottage_Hospital.jpg,34.60213,-120.126006
+Sonoma,95476,Sonoma Valley Hospital,"347 Andrieux Street, Sonoma, CA 95476",(707) 935-5000,Sonoma_Valley_Hospital.jpg,38.288227,-122.46543
+Sonora,95370,Sonora Regional Medical Center,"1000 Greenley Road, Sonora, CA 95370",(209) 536-5000,Sonora_Regional_Medical_Center.jpg,37.977232,-120.371292
+South El Monte,91733,Greater El Monte Community Hospital,"1701 Santa Anita Avenue, South El Monte, CA 91733",(626) 579-7777,Greater_El_Monte_Community_Hospital.jpg,34.048028,-118.043419
+South Lake Tahoe,96150,Barton Memorial Hospital,"2170 South Avenue, South Lake Tahoe, CA 96150",(530) 541-3420,Barton_Memorial_Hospital.jpg,38.911609,-119.9976
+South San Francisco,94080,Kaiser Permanente South San Francisco Medical Center,"1200 El Camino Real, South San Francisco, CA 94080",(650) 742-2000,Kaiser_Permanente_South_San_Francisco_Medical_Center.jpg,37.659147,-122.43933
+Stanford,94305,Stanford Health Care,"300 Pasteur Drive, Stanford, CA 94305",(800) 549-3720,Stanford_Hospital_and_Clinics.jpg,37.43323,-122.175617
+Stockton,95203,Dameron Hospital,"525 West Acacia Street, Stockton, CA 95203",(209) 944-5550,Dameron_Hospital.jpg,37.961718,-121.301154
+Stockton,95204,St. Joseph's Medical Center of Stockton,"1800 North California Street, Stockton, CA 95204",(209) 943-2000,St._Joseph_Medical_Center_of_Stockton.jpg,37.970658,-121.288784
+Sun City,92585,Menifee Valley Medical Center,"28400 Mccall Boulevard, Sun City, CA 92585",(951) 679-8888,Menifee_Valley_Medical_Center.jpg,33.719393,-117.164627
+Sun Valley,91352,Pacifica Hospital of the Valley,"9449 San Fernando Road, Sun Valley, CA 91352",(818) 767-3310,Pacifica_Hospital_of_the_Valley.jpg,34.240185,-118.396317
+Susanville,96130,Banner Lassen Medical Center,"1800 Spring Ridge Drive, Susanville, CA 96130",(530) 252-2000,Banner_Lassen_Medical_Center.jpg,40.436673,-120.627813
+Sylmar,91342,Olive View - UCLA Medical Center,"14445 Olive View Drive, Sylmar, CA 91342",(818) 364-1555,Olive_View_-_UCLA_Medical_Center.jpg,34.325708,-118.445776
+Tarzana,91356,Providence Tarzana Medical Center,"18321 Clark Street, Tarzana, CA 91356",(818) 881-0800,Providence_Tarzana_Medical_Center.jpg,34.170419,-118.532163
+Tehachapi,93561,Tehachapi Valley Healthcare District,"115 West East Street, Tehachapi, CA 93561",(661) 823-3000,Tehachapi_Valley_Healthcare_District.jpg,35.129849,-118.447352
+Templeton,93465,Twin Cities Community Hospital,"1100 Las Tablas Road, Templeton, CA 93465",(805) 434-3500,Twin_Cities_Community_Hospital.jpg,35.555216,-120.720071
+Thousand Oaks,91360,Los Robles Hospital and Medical Center,"215 West Janss Road, Thousand Oaks, CA 91360",(805) 497-2727,Los_Robles_Hospital_and_Medical_Center.jpg,34.206986,-118.883103
+Thousand Oaks,91361,Thousand Oaks Surgical Hospital,"401 Rolling Oaks Drive, Thousand Oaks, CA 91361",(805) 777-7750,Thousand_Oaks_Surgical_Hospital.jpg,34.174794,-118.869457
+Torrance,90502,Harbor - UCLA Medical Center,"1000 West Carson Street, Torrance, CA 90502",(310) 222-5133,Harbor_-_UCLA_Medical_Center.jpg,33.830684,-118.292191
+Torrance,90503,Providence Little Company of Mary Medical Center Torrance,"4101 Torrance Boulevard, Torrance, CA 90503",(310) 540-7676,Providence_Little_Company_of_Mary_Medical_Center_Torrance.jpg,33.838732,-118.356806
+Torrance,90505,Torrance Memorial Medical Center,"3330 Lomita Boulevard, Torrance, CA 90505",(310) 325-9110,Torrance_Memorial_Medical_Center.jpg,33.811037,-118.343073
+Tracy,95376,Sutter Tracy Community Hospital,"1420 North Tracy Boulevard, Tracy, CA 95376",(209) 835-1500,Sutter_Tracy_Community_Hospital.jpg,37.743621,-121.434655
+Truckee,96161,Tahoe Forest Hospital,"10121 Pine Avenue, Truckee, CA 96161",(530) 587-6011,Tahoe_Forest_Hospital.jpg,39.325675,-120.20092
+Tulare,93274,Tulare Regional Medical Center,"869 North Cherry Street, Tulare, CA 93274",(559) 688-0821,Tulare_Regional_Medical_Center.jpg,36.221152,-119.338362
+Ukiah,95482,Ukiah Valley Medical Center,"275 Hospital Drive, Ukiah, CA 95482",(707) 462-3111,Ukiah_Valley_Medical_Center.jpg,39.152926,-123.203022
+Upland,91786,San Antonio Community Hospital,"999 San Bernardino Road, Upland, CA 91786",(909) 985-2811,San_Antonio_Community_Hospital.jpg,34.102002,-117.637916
+Vacaville,95688,Kaiser Permanente Vacaville Medical Center,"1 Quality Drive, Vacaville, CA 95688",(707) 624-4000,Kaiser_Permanente_Vacaville_Medical_Center.jpg,38.388513,-121.938099
+Vacaville,95687,Northbay Vacavalley Hospital,"1000 Nut Tree Road, Vacaville, CA 95687",(707) 624-7000,Northbay_Vacavalley_Hospital.jpg,38.355856,-121.95196
+Valencia,91355,Henry Mayo Newhall Memorial Hospital,"23845 Mcbean Parkway, Valencia, CA 91355",(661) 253-8000,Henry_Mayo_Newhall_Memorial_Hospital.jpg,34.397562,-118.55326
+Vallejo,94589,Kaiser Permanente Vallejo Medical Center,"975 Sereno Drive, Vallejo, CA 94589",(707) 651-1000,Kaiser_Permanente_Vallejo_Medical_Center.jpg,38.12767,-122.248443
+Vallejo,94589,Sutter Solano Medical Center,"300 Hospital Drive, Vallejo, CA 94589",(707) 554-4444,Sutter_Solano_Medical_Center.jpg,38.131184,-122.237323
+Van Nuys,91401,Southern California Hospital,"14433 Emelita St, Van Nuys, CA 91401",(818) 787-1511,Southern_California_Hospital.jpg,34.177062,-118.447489
+Van Nuys,91405,Valley Presbyterian Hospital,"15107 Vanowen Street, Van Nuys, CA 91405",(818) 782-6600,Valley_Presbyterian_Hospital.jpg,34.194945,-118.46319
+Victorville,92395,Desert Valley Hospital,"16850 Bear Valley Road, Victorville, CA 92395",(760) 241-8000,Desert_Valley_Hospital.jpg,34.471727,-117.29776
+Victorville,92395,Victor Valley Global Medical Center,"15248 11th Street, Victorville, CA 92395",(760) 245-8691,Victor_Valley_Global_Medical_Center.jpg,34.528167,-117.293911
+Visalia,93291,Kaweah Delta Medical Center,"400 West Mineral King Avenue, Visalia, CA 93291",(559) 624-2000,Kaweah_Delta_Medical_Center.jpg,36.328656,-119.294865
+Walnut Creek,94598,John Muir Medical Center - Walnut Creek,"1601 Ygnacio Valley Road, Walnut Creek, CA 94598",(925) 939-3000,John_Muir_Medical_Center_-_Walnut_Creek.jpg,37.913168,-122.041102
+Walnut Creek,94596,Kaiser Permanente Walnut Creek Medical Center,"1425 South Main Street, Walnut Creek, CA 94596",(925) 295-4000,Kaiser_Permanente_Walnut_Creek_Medical_Center.jpg,37.891579,-122.058886
+Watsonville,95076,Watsonville Community Hospital,"75 Nielson Street, Watsonville, CA 95076",(831) 724-4741,Watsonville_Community_Hospital.jpg,36.927175,-121.793002
+Weaverville,96093,Trinity Hospital,"60 Easter Ave, Weaverville, CA 96093",(530) 623-5541,Trinity_Hospital.jpg,40.740843,-122.941967
+West Covina,91790,Citrus Valley Medical Center - Queen of the Valley,"1115 South Sunset Avenue, West Covina, CA 91790",(626) 962-4011,Citrus_Valley_Medical_Center_-_Queen_of_the_Valley.jpg,34.063247,-117.944676
+West Hills,91307,West Hills Hospital & Medical Center,"7300 Medical Center Drive, West Hills, CA 91307",(818) 676-4000,West_Hills_Hospital_and_Medical_Center.jpg,34.202754,-118.628777
+Whittier,90602,PIH Health Hospital - Whittier,"12401 East Washington Boulevard, Whittier, CA 90602",(562) 698-0811,PIH_Health_Hospital_-_Whittier.jpg,33.968607,-118.048401
+Whittier,90605,Whittier Hospital Medical Center,"9080 Colima Road, Whittier, CA 90605",(562) 945-3561,Whittier_Hospital_Medical_Center.jpg,33.950271,-118.004023
+Wildomar,92595,Southwest Healthcare System - Inland Valley Medical Center,"36485 Inland Valley Drive, Wildomar, CA 92595",(951) 677-1111,Southwest_Healthcare_System_-_Inland_Valley_Medical_Center.jpg,33.591413,-117.237487
+Willows,95988,Glenn Medical Center,"1133 West Sycamore Street, Willows, CA 95988",(530) 934-1800,Glenn_Medical_Center.jpg,39.520488,-122.2079
+Woodland,95695,Woodland Healthcare,"1325 Cottonwood Street, Woodland, CA 95695",(530) 662-3961,Woodland_Healthcare.jpg,38.664038,-121.79212
+Woodland Hills,91367,Kaiser Permanente Woodland Hills Medical Center,"5601 De Soto Avenue, Woodland Hills, CA 91367",(818) 719-2000,Kaiser_Permanente_Woodland_Hills_Medical_Center.jpg,34.170994,-118.589738
+Yreka,96097,Fairchild Medical Center,"444 Bruce Street, Yreka, CA 96097",(530) 842-4121,Fairchild_Medical_Center.jpg,41.719495,-122.645804
+Yuba City,95991,Fremont Medical Center,"970 Plumas Street, Yuba City, CA 95991",(530) 751-4000 ,Fremont_Medical_Center.jpg,39.143204,-121.618072
+Yuba City,95991,Sutter Surgical Hospital - North Valley,"455 Plumas Boulevard, Yuba City, CA 95991",(530) 749-5700,Sutter_Surgical_Hospital_-_North_Valley.jpg,39.131661,-121.613364
